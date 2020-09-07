@@ -53,25 +53,22 @@
 
 <hr>
 
-### 📝 Latest articles from [dev.to](https://dev.to/singh08prashant)
+### 📝 Latest articles from [Sai Anirudh]()
 
-* Jul 11 2020 [Building & Deploying an Image Classification Web App with GCP AutoML Vision Edge, Tensorflow.js & GCP App Engine](https://dev.to/singh08prashant/building-deploying-an-image-classification-web-app-with-gcp-automl-vision-edge-tensorflow-js-gcp-app-engine-57gb) 
+* [Project Title](URL) 
 
 <p align = "center">
- <a href="https://twitter.com/s08prashant">
-  <img align="center" alt="Prashant's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+ <a href="https://twitter.com/">
+  <img align="center" alt="Anirudh's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/prashant-singh-08/">
-  <img align="center" alt="Prashant's's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/">
+  <img align="center" alt="Anirudh's's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/singh08prashant">
-  <img align="center" alt="Prashant's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://github.com/saianirudh97">
+  <img align="center" alt="Anirudh's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/s08prashant">
-  <img align="center" alt="Prashant's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.hackerrank.com/singh08prashant">
-  <img align="center" alt="Prashant's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+<a href="https://www.hackerrank.com/Sai_Anirudh97">
+  <img align="center" alt="Anirudh's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 
 </p>
@@ -79,8 +76,8 @@
 <p align="center">
 
 <img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsingh08prashant" />
-<img src="https://komarev.com/ghpvc/?username=singh08prashant" alt="singh08prashant" />
+<img src="https://komarev.com/ghpvc/?username=saianirudh97" alt="saianirudh97" />
 
 </p>
 
-⭐️ From [singh08prashant](https://github.com/singh08prashant)
+⭐️ From [Sai Anirudh](https://github.com/saianirudh97)
