@@ -7,7 +7,7 @@
 ---
 
 
-<center>   <h2> 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸 </h2> </center>
+<center>   <h2> 𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸 </h2> </center>
 
 <table>
   <tbody>
@@ -73,11 +73,5 @@
 
 </p>
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsaianirudh97" />
-<img src="https://komarev.com/ghpvc/?username=saianirudh97" alt="saianirudh97" />
-
-</p>
 
 ⭐️ From [Sai Anirudh](https://github.com/saianirudh97)
