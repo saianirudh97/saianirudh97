@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sai Anirudh Basamsetty.
+<h1 align="center">Hi, I'm Sai Anirudh Basamsetty.<br>
 <p align ="center">
 <img src="https://github-readme-stats.vercel.app/api?username=saianirudh97&show_icons=true&title_color=00ffff&text_color=33ff33&bg_color=333333&icon_color=ffff4d")
 </p>
