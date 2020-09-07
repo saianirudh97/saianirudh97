@@ -75,7 +75,7 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsingh08prashant" />
+<img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsaianirudh97" />
 <img src="https://komarev.com/ghpvc/?username=saianirudh97" alt="saianirudh97" />
 
 </p>
