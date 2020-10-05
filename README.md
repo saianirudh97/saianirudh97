@@ -8,7 +8,7 @@
 
 ---
 <h1 align="left">About me </h1>
-<p> - I am masters student at University of Toronto</p>
+<p> * I am masters student at University of Toronto</p>
 
 <!---
 ---
