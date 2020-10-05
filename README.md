@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sai Anirudh Basamsetty.
-<h2 align="center"> Data Science | Machine Learning | AI | Software Developer
+<h2 align="center"> Data Science Enthusiast | Machine Learning Researcher| AI | Software Developer
   <hr>
 <p align ="center">
 <img src="https://github-readme-stats.vercel.app/api?username=saianirudh97&show_icons=true&title_color=00ffff&text_color=33ff33&bg_color=333333&icon_color=ffff4d")
@@ -8,7 +8,7 @@
 
 ---
 <h1 align="left">About me </h1>
-<p> I am masters student at University of Toronto</p>
+<p> - I am masters student at University of Toronto</p>
 
 <!---
 ---
