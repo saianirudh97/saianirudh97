@@ -8,8 +8,7 @@
 
 ---
 <h1 align="left">About me </h1>
-<p> * I am masters student at University of Toronto</p>
-
+- I am masters student at University of Toronto.
 <!---
 ---
 #<center>   <h2> 𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸 </h2> </center>
@@ -60,8 +59,6 @@
 
 
 ### 📝 Check My Latest Projects Here! [Sai Anirudh](https://github.com/saianirudh97)
-
-* [Project Title](URL) 
 
 <p align = "center">
  <a href="https://twitter.com/">
