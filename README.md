@@ -8,7 +8,7 @@
 
 ---
 <h1 align="left">About me </h1>
-<bullet> I am masters student at University of Toronto.
+I am masters student at University of Toronto.
 
 <!---
 ---
@@ -78,4 +78,4 @@
 </p>
 
 
-⭐️ From [Sai Anirudh](https://github.com/saianirudh97)
+⭐️ From [SaiAnirudh97](https://github.com/saianirudh97)
