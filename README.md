@@ -8,8 +8,8 @@
 
 ---
 <h1 align="left">About me </h1>
-- I am masters student at University of Toronto.
--
+<bullet> I am masters student at University of Toronto.
+
 <!---
 ---
 #<center>   <h2> 𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸 </h2> </center>
