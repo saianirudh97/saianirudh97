@@ -8,7 +8,8 @@
 
 ---
 <h1 align="left">About me </h1>
-Hi There! I am Sai Anirudh and I am a Data Science and Machine Learning Enthusiast. Feel free to check out my projects [Here!!!](https://github.com/saianirudh97)
+Hi There! I am Sai Anirudh and I am a Data Science and Machine Learning Enthusiast. 
+Feel free to check out my projects [Here!!!](https://github.com/saianirudh97)
 
 
 <p align = "center">
