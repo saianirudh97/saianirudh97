@@ -16,14 +16,15 @@ Hi There! I am Sai Anirudh and I am a Data Science and Machine Learning Enthusia
  <p align = "center">
   
 <a href="https://www.linkedin.com/in/sai-anirudh-basamsetty/">
-  <img align="center" alt="Anirudh's's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="center" alt="Anirudh's's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />Linkedin
 </a>
 <hr>
 <a href="https://github.com/saianirudh97">
-  <img align="center" alt="Anirudh's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="center" alt="Anirudh's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />Github
 </a>
+<hr>
 <a href="https://www.hackerrank.com/Sai_Anirudh97">
-  <img align="center" alt="Anirudh's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+  <img align="center" alt="Anirudh's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />HackerRank
 </a>
 
 </p>
