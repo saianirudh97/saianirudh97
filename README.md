@@ -13,7 +13,7 @@ Hi There! I am Sai Anirudh and I am a Data Science and Machine Learning Enthusia
 [Here!!!](https://github.com/saianirudh97)
 
 
-<p align = "center">
+Reach me out using: <p align = "center">
 <a href="https://www.linkedin.com/in/sai-anirudh-basamsetty/">
   <img align="center" alt="Anirudh's's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
